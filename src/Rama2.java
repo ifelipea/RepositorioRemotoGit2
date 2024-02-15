@@ -1,7 +1,7 @@
 
-public class Rama1 {
+public class Rama2 {
 public void texto() {
-	System.out.println("Hola");
-	System.out.println("mundo");
+	System.out.println("Rama");
+	System.out.println("2");
 }
 }
